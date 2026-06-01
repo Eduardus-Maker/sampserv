@@ -1,0 +1,20 @@
+{
+  "arizona": [
+    {
+      "number": 1,
+      "name": "Test Server",
+      "ip": "141.95.190.143",
+      "port": 1181,
+      "online": 0,
+      "queue": 0,
+      "maxplayers": 100,
+      "password": false,
+      "plotPoints": [],
+      "tg": "",
+      "vk": "",
+      "inst": "",
+      "icon": "",
+      "additionalIps": []
+    }
+  ]
+}
